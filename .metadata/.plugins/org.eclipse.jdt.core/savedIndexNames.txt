@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+D:\CodSoft Intrenship\.metadata\.plugins\org.eclipse.jdt.core
+3927282467.index
+2533375800.index
+1865797976.index

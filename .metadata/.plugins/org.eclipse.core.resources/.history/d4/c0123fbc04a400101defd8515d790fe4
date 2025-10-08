@@ -1,0 +1,45 @@
+import java.util.Scanner;
+public class GradeCalculator {
+	public static void main(String[] args) {
+		Scanner sc = new Scanner(System.in);
+		System.out.print("Enter No of Subjects:");
+		int noSubs = sc.nextInt();
+		int marks [] = new int[noSubs];
+		int totalMarks = 0,mark=0;
+		for(int i=0;i<noSubs;i++)
+		{
+			System.out.print("Enter "+(i+1)+" subject marks out of 100: ");
+			mark = sc.nextInt();
+			if(mark>100)
+			{
+				System.out.println("Enter marks out of 100 !!");
+				return;
+			}
+			marks[i]=mark;
+			totalMarks+=marks[i];
+		}
+		
+		System.out.println();
+		System.out.println(" o- Student Result -o ");
+		
+		System.out.println("Total Marks Scored by Student = "+totalMarks);
+		
+		double averageMarks = (double) totalMarks/noSubs;
+		System.out.printf("Average Marks Scored = %.2f ",averageMarks);
+		System.out.print("%");
+		String grades;
+		if(averageMarks>=90)
+			grades = "A+ Grade";
+		else if(averageMarks>=80)
+			grades = "A Grade";
+		else if(averageMarks>=70)
+			grades = "B Grade";
+		else if(averageMarks>=65)
+			grades = "Pass";
+		else
+			grades = "Fail";
+		
+		System.out.println("\nGrade obtained by Student = "+grades);
+	}
+
+}
