@@ -2,7 +2,7 @@
 A simple and interactive **Java console-based application** that takes the number of subjects and their respective marks from the user, then calculates the **total**, **average**, and assigns a **grade** based on performance.
 
 ## 💡 Overview  
-This project was developed as **Task 1** during the **CodSoft Java Internship – Batch B54 (September 2025)**.  
+This project was developed as **Task 2** during the **CodSoft Java Internship – Batch B54 (September 2025)**.  
 It focuses on strengthening **core Java fundamentals**, including **arrays, loops, conditionals**, and **user input handling** using the `Scanner` class.
 
 ## 🚀 Features  
