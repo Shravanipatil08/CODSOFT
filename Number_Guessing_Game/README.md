@@ -36,7 +36,7 @@ Number_Guessing_Game/
 3. Follow the console instructions to start playing.  
 
 ## ✅ Internship Info  
-- **Task:** 3  
+- **Task:** 1 
 - **Internship Domain:** Java Programming  
 - **Organization:** CodSoft  
 - **Batch:** B54 – September 2025  
