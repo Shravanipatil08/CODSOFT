@@ -3,7 +3,7 @@ A fun and interactive **console-based Java game** where the player tries to gues
 The game includes **round tracking, score calculation**, and **real-time feedback** after every guess.
 
 ## 💡 Overview  
-This project was developed as **Task 3** during the **CodSoft Java Internship – Batch B54 (September 2025)**.  
+This project was developed as **Task 1** during the **CodSoft Java Internship – Batch B54 (September 2025)**.  
 It focuses on **core Java logic**, emphasizing **loops, conditionals, random number generation**, and **user input handling** through the console.
 
 ## 🚀 Features
