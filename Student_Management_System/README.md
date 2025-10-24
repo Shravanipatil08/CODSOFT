@@ -4,7 +4,7 @@ It features a **modern FlatLaf theme**, **HD SVG icons** for all actions, and an
 The system automatically creates the required database and tables on the first run, requiring only credential setup.
 
 ## 💡 Overview  
-This project was developed as **Task 2** during the **CodSoft Java Internship – Batch B54 (September 2025)**.  
+This project was developed as **Task 3** during the **CodSoft Java Internship – Batch B54 (September 2025)**.  
 It demonstrates **modular design**, **event-driven programming**, and **database integration** with an emphasis on user-friendly design and maintainable architecture.
 
 ## 🖼️ UI Highlights  
